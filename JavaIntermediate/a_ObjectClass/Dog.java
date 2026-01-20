@@ -1,4 +1,4 @@
-package objectClass;
+package a_ObjectClass;
 
 class Dog {
     private String dogName;
